@@ -980,6 +980,10 @@ section
 	white-space: nowrap;
 }
 
+.cta_phone a {
+	color: #fff;
+}
+
 /*********************************
 9. Services
 *********************************/
@@ -1155,6 +1159,7 @@ section
 	color: #fff;
 	text-transform: uppercase;
 }
+
 
 /*********************************
 12. Footer
