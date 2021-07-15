@@ -1026,3 +1026,14 @@ section
 {
 	color: #57ccc3;
 }
+
+.like_buttons {
+	display: flex;
+	justify-content: center;
+}
+
+.col-sm img {
+	width: 200px !important;
+	height: 200px;
+	border-radius: 15px !important;
+}

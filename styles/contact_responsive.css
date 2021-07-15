@@ -350,7 +350,10 @@
 
 @media only screen and (max-width: 539px)
 {
-	
+	img.rounded.mx-auto.d-block
+{
+	width: 200px !important;
+}
 }
 
 /************
@@ -378,4 +381,9 @@
 @media only screen and (max-width: 400px)
 {
 	
+}
+
+.like_buttons {
+	display: flex;
+	justify-content: center;
 }
